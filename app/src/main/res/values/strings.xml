@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="maths_quiz">Maths-Quiz</string>
+    <string name="addition">Addition</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">Multiply</string>
+    <string name="division">Division</string>
+    <string name="random">Random</string>
+    <string name="exit">Exit</string>
+    <string name="level_1">Level 1</string>
+    <string name="score_0">Score: 0</string>
+</resources>
